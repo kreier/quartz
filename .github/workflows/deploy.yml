@@ -32,14 +32,6 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: public
-      - name: Trigger Repo statistics-diary workflow
-          if: success()
-          run: |
-            curl -X POST \
-              -H "Accept: application/vnd.github+json" \
-              -H "Authorization: Bearer ${{ secrets.REPO_B_TOKEN }}" \
-              https://api.github.com/repos/kreier/statistics-diary/dispatches \
-              -d '{"event_type":"trigger-from-repo-quartz"}'
 
   deploy:
     needs: build
@@ -51,3 +43,19 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  trigger:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Run build
+        run: echo "Build in Quartz completed!"
+
+      - name: Trigger statistics-diary workflow
+        if: ${{ success() }}   # ✅ correct syntax
+        run: |
+          curl -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.REPO_B_TOKEN }}" \
+            https://api.github.com/repos/kreier/statistics-diary/dispatches \
+            -d '{"event_type":"trigger-from-repo-quartz"}'
