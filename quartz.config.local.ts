@@ -6,23 +6,17 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
-const isDev = process.env.NODE_ENV === "development"
-
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Obsidian",
     pageTitleSuffix: "",
-    enableSPA: !isDev,
+    enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    // baseUrl: "",
-    // baseUrl: isDev ? "" : "saiht.de/obsidian",
-    baseUrl: isDev
-      ? "http://localhost:8080"
-      : "https://saiht.de/obsidian",
+    baseUrl: "",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
