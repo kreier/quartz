@@ -261,33 +261,33 @@ I went for the older [CUDA Toolkit 12.2](https://developer.nvidia.com/cuda-12-2-
 - GCC and CPP **v12**, not 13
 
 Here the installation: 
-```Bash
+```sh
 wget https://developer.download.nvidia.com/compute/cuda/12.2.0/local_installers/cuda_12.2.0_535.54.03_linux.run
 sudo sh cuda_12.2.0_535.54.03_linux.run
 git clone https://github.com/ggml-org/llama.cpp
 cd llama.cpp
 ```
 ### Just the CPU
-```Bash
+```sh
 rm -rf build
 cmake -B build -DLLAMA_OPENSSL=ON -DBUILD_SHARED_LIBS=OFF
 cmake --build build --config Release
 ./build/bin/llama-cli -hf Qwen/Qwen3-4B-GGUF:Q4_K_M -p "Explain quantum entanglement"
 ```
 Result: It works! And Qwen3 is a reasoning model, so it takes a little time to answer. The result then is: pp 14.4 t/s and tg 4.9 t/s. Does the benchmark work with b8157?
-```Bash
+```sh
 ./build/bin/llama-bench -m ~/.cache/llama.cpp/Qwen_Qwen3-4B-GGUF_Qwen3-4B-Q4_K_M.gguf
 ```
 Result: pp512 with 18.6 t/s and tg128 with 6.5 t/s. Now let's try this with GPU:
 ### GPU with CUDA Compiler 12.2
-```Bash
+```sh
 cmake -B build -DLLAMA_OPENSSL=ON -DBUILD_SHARED_LIBS=OFF -DGGML_CUDA=ON
 cmake --build build --config Release
 ./build/bin/llama-cli -hf Qwen/Qwen3-4B-GGUF:Q4_K_M -p "Explain quantum entanglement" --n-gpu-layers 99
 ```
 It worked! The work is distributed across all 4 GPUS. Now for benchmarking, with standard parameters I get pp512 813 t/s and tg128 40.3 t/s. Compared to CPU that's 44x and 6.2x. If I limit to one GPU with `UDA_VISIBLE_DEVICES=0 ./build/bin/llama-bench -m ~/.cache/llama.cpp/Qwen_Qwen3-4B-GGUF_Qwen3-4B-Q4_K_M.gguf -ngl 99` I get pp512 914 t/s and tg128 49 t/s. That's 49x and 7.6x. Now to the benchmark to compare with the DGX Spark:
 
-```Bash
+```sh
 CUDA_VISIBLE_DEVICES=0 ./build/bin/llama-bench -m ~/.cache/llama.cpp/Qwen_Qwen3-4B-GGUF_Qwen3-4B-Q4_K_M.gguf -ngl 99 -p 4096 -n 8192
 ```
 The result:
@@ -297,7 +297,16 @@ The result:
 | DGX    |   1970 |  61.8  |  65 W | 150 W |
 | GPU 4x |    698 | 21.54  | 240 W | 440 W |
 | GPU 1x |    664 | 23.47  | 175 W | 304 W |
+
 As mentioned above: **29x cheaper**, using 2x the power and 2.5 to **3x slower.** But with this token generation speed it is still usable.
+### Speed CPU vs GPU
+Here I compare the small Qwen3-4B model on the i3-6100 CPU to the split across 4 GPUs and just running on the P104-100. For comparison I added the memory bandwidth, the main bottleneck.
+
+|               | pp512 | tg128 | pp4096 | tg8192 | GB/s |
+|---------------|------:|------:|-------:|-------:|-----:|
+| CPU i3-6100   |    19 |   6.5 |     14 |    4.9 |   32 |
+| GPU 4x Pascal |   813 |  40.3 |    698 |   21.5 | ~250 |
+| GPU P104-100  |   914 |  49.0 |    664 |   23.5 |  314 |
 ### Not working with CUDA Compiler 12.9
 I tried a freshly compiled llama.cpp `b8134` with `nvidia-smi` 535.288.01 and `nvcc` 12.9. I thought it would be simple:
 
@@ -307,7 +316,10 @@ cmake -B build -DGGML_CUDA=ON -DLLAMA_OPENSSL=ON -DCMAKE_BUILD_TYPE=Release -DCM
 cmake --build build --config Release
 ```
 #### Testing
-```Bash
+```sh
 ./build/bin/llama-cli -hf Qwen/Qwen3-4B-GGUF:Q4_K_M -p "Explain quantum entanglement" --n-gpu-layers 99
 ```
 No, it crashes. See above solution with 12.2
+
+## References
+- [[Hardware collection]] 

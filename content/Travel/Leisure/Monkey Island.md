@@ -1,13 +1,26 @@
 One of the closest destinations from Hò Chí Minh downtown. Don't be upset if you don't meet pirates, as the game from 1990 implies. And no pirates here, either.
 
+
+
 There are several spots to visit:
 ## Khu dự trữ sinh quyển thế giới
+![[2019-01-15_2crop.jpg]]
 It was part of a school trip from AISVN in 2019 with several classes of grade 9 (I was teaching all of them in Chemistry back then). Well organized, a lot of monkeys. Not that far. And good view from the tower. Google maps: [Khu dự trữ sinh quyển thế giới](https://maps.app.goo.gl/oqELB55zL9Z7Gudb8) with 102 reviews.
+
+Further information:
+- Location: [Google - Khu dự trữ sinh quyển thế giới](https://maps.app.goo.gl/evVkX732Qf5XD1DL7)
+- Distance: [Google 40.1 km](https://maps.app.goo.gl/EtjBVHQ4MSmDLxPT8), 1h05
+- Entrance fee: Ferry 7k, entrance ...
 
 Visits:
 - [[Monkey Island I]] on 2019-01-15
 ## Vam Sat Monkey Island Base - Khu căn cứ Vàm Sát Đảo Khỉ
-One hour 20 to drive from HCM, ferry 7k. Entrance is 100k, the first 500 meter by electric car 25k. Walking 2 kilometers, at the beginning a crocodile farm. Later in the jungle some display of war time history. Motorized canoe back is 80k and takes only 5 minutes.
+This is further down the road:
+- Location: [Google - Khu căn cứ Vàm Sát Đảo Khỉ](https://maps.app.goo.gl/ZkBhURT7BZQcK7U57) 
+- Distance: [Google 52.8 km](https://maps.app.goo.gl/GFuE9pPJDvRWzrD98), 1h19
+- Entrance fee: Ferry 7k, entrance is **100k**, the first 500 meter by electric car **25k**
+
+One hour 20 to drive from HCM, ferry 7k. Entrance is 100k, the first 500 meter by electric car 25k. Walking 2 kilometers, at the beginning a crocodile farm. Later in the jungle some display of war time history. Motorized canoe back is **80k** and takes only 5 minutes.
 
 Visits:
 - [[Monkey Island II]] on 2026-03-02
