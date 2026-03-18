@@ -1,13 +1,13 @@
 It is a popular sport in western countries. Vietnam is slowly catching up. More people start looking for an escape of the city on weekends. Some popular destinations I tested myself, ordered by distance from the Saigon city center:
 ## Monkey Island
-This is more a 40 minute walk through a Mangrove forrest. Then you can drive back with a motorboat in 5 minutes, or walk back. Further information:
+This is more a 40 minute walk through a Mangrove forest. Then you can drive back with a motorboat in 5 minutes, or walk back. Further information:
 - Location:
 - Distance:
 - Information: [[Monkey Island]] 100k entrance, 25k electric taxi, 80k boat return in2026
 
-I traveled to a few times. in 2019 with a class trip from AISVN
-- Monkey Island I - 2019-something
-- [[Monkey Island II]]
+I traveled to a few times. First trip into the mangrove forrest was on January 15th, 2019 with a class trip from AISVN.
+- Monkey Island I - 2019-01-15
+- [[Monkey Island II]] - 
 ## Núi Thị Vải 
 Location: 
 Two times, second time I found the "peak" which is 50 meter below the peak and 200 meters away. Height: 467 meter, trip of about 1h40. 5.07 km distance. 913 kcal total. 

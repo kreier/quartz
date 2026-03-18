@@ -5,7 +5,7 @@ There are several spots to visit:
 It was part of a school trip from AISVN in 2019 with several classes of grade 9 (I was teaching all of them in Chemistry back then). Well organized, a lot of monkeys. Not that far. And good view from the tower. Google maps: [Khu dự trữ sinh quyển thế giới](https://maps.app.goo.gl/oqELB55zL9Z7Gudb8) with 102 reviews.
 
 Visits:
-- Article on 2019-MM-DD
+- [[Monkey Island I]] on 2019-01-15
 ## Vam Sat Monkey Island Base - Khu căn cứ Vàm Sát Đảo Khỉ
 One hour 20 to drive from HCM, ferry 7k. Entrance is 100k, the first 500 meter by electric car 25k. Walking 2 kilometers, at the beginning a crocodile farm. Later in the jungle some display of war time history. Motorized canoe back is 80k and takes only 5 minutes.
 
