@@ -1,6 +1,7 @@
 ---
 date: 2025-07-24
 ---
+![[20250724_154303_Nui_Thi_Vai.jpg]]
 Two times the charm. Previous attempt on June 20th, [[Núi Thị Vải I]], about a month ago. Conquered it in the second attempt. Official height: 467m
 
 - 14:50 - 16:32

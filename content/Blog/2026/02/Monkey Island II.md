@@ -3,7 +3,9 @@ date: 2026-03-02
 ---
 I had my Vietnamese lesson in the morning from 8:30 to 11:30 online. Therefore we started early at 6:30 at Hung Vuong 1 and headed towards the ferry. 5 minutes away we had banh cuon nang breakfast. After that we had to part ways for me to be back in time. Simon, Eddie and Pablo continued on their own.
 ## Viewing tower
+This is around the corner from the location of my first visit, [[Monkey Island I]] in 2019.
 ## Khu căn cứ Vàm Sát Đảo Khỉ
+![[2026-02-03_map.jpg]]
 One hour 20 to drive from HCM, ferry 7k. Entrance is 100k, the first 500 meter by electric car 25k. Walking 2 kilometers, at the beginning a crocodile farm. Later in the jungle some display of war time history. Motorized canoe back is 80k and takes only 5 minutes.
 
 My lesson had finished earlier. I caught up to the boys when they were about to enter the canoe back
