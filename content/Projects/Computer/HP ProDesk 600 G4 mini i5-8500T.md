@@ -20,6 +20,8 @@ Little did I know that even though the memory bandwidth is not the best with sco
 ## 2025-02-05
 I give it to Moises on February 5th, 2025. It's mainly used for YouTube to drive the 55" 4K monitor Ad-free with the Brave browser. But after TET 2026 I think I need it back.
 ## 2026-02-09
-Well, I gave it to Moises on February 5th, 2025. It's mainly used for Youtube to drive the 55" 4K monitor Ad-free with the Brave browser. But after TET 2026 I think I need it back.
+Well, I gave it to Moises on February 5th, 2025. It's mainly used for YouTube to drive the 55" 4K monitor Ad-free with the Brave browser. But after TET 2026 I think I need it back.
 
 Remembering some older machines, I restarted one of the [[Tanix TX mini]] and [[Raspberry Pi 4 with 4 GB RAM]] and [[Raspberry Pi 3 with 1 GB RAM]].
+## 2026-03-23 Dedicated OpenClaw Network
+For my IOT network I have a TP-Link WR1043ND running on OpenWRT (see [[Router#TP-Link WR1043ND v3 - WIFI4]]) but with only 64 MB RAM this router is almost at the limit of its capabilities. So I got another Archer C7 with twice the RAM and Flash and installed a new OpenWRT 25.12.1 on it. It has enough headroom for future projects. See [[Router]].
