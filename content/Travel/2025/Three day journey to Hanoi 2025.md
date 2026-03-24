@@ -17,3 +17,6 @@ The next 108 km from Bắc Trà My to tt. Thạnh Mỹ, crossing the Hiệp Hòa
 And getting closer to Danang it started raining again, and did not stop even until 150 milometers late until 5:30 PM in Huế. So I got a bed in a Nhà Nghỉ and prepared for the Saturday evening zoom meeting.
 ## 10-26 Hà Nội 650.4 km
 It kept raining in the morning until around lunch time or 373 km later, when I arrived in Vinh. Then it stopped, and I could dry in the wind while finishing the 3-day trip to Hanoi.
+
+## References
+- [[Motorbike in Vietnam]] 

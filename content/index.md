@@ -23,7 +23,7 @@ Apart from these 4 websites I had the following domains for some time: More deta
 ## 3. [[Travel history]]
 It is good from time to time to reflect on the good things one received in life. That is certainly true for journeys to remote places and time with friends. Both the travel itself as time remembering can fill us with gratitude.<br />
 <img src="Diary/files/1x1.png" width="20%"><img src="Travel/files/2026-01-01_travelhistory.png" width="60%"><br />
-Documenting my travels was already a part of my first edition of [[saiht.de]] in 1999. For the trip to Asia in 1998 I bought a book with black pages, since the contrast to the images let them appear more vibrant. A lot has happened since then.
+Documenting my travels was already a part of my first edition of [[saiht.de]] in 1999. For the trip to Asia in 1998 I bought a book with black pages, since the contrast to the images let them appear more vibrant. A lot has happened since then. Like travelling by [[Motorbike in Vietnam]].
 ### [[Leisure]]
 Many of my leisure activities include travelling with friends. That's why this part is included here. It includes [[Hiking in Vietnam]], 
 ## 4. [[About the blog]]
