@@ -18,7 +18,7 @@ Trip to the flag pole. 54 square meteres (6x9 meters) represents the 54 local mi
 
 The afternoon we travel to the historic market in Đồng Văn. It has some great photo spots again.
 ## 11-04 Cốc Pảng and Du Gia Panorama Ecolodge 114.9 km
-On the way to Cốc Pảng Minh and I hike to a little overhanging rock next to the road for nice pictures, that other tourists took as well.
+On the way to Cốc Pảng Minh and I hike to a little overhanging rock next to the road for nice pictures, that other tourists took as well. See [[Meo Vac]].
 
 ![[2025-11-04_rock.jpg]]
 

@@ -18,5 +18,8 @@ And getting closer to Danang it started raining again, and did not stop even unt
 ## 10-26 Hà Nội 650.4 km
 It kept raining in the morning until around lunch time or 373 km later, when I arrived in Vinh. Then it stopped, and I could dry in the wind while finishing the 3-day trip to Hanoi.
 
+## 10-27 The story continues
+In another article: [[One week in Hanoi and Sapa 2025]]
+
 ## References
 - [[Motorbike in Vietnam]] 
