@@ -144,6 +144,16 @@ Finally, we’ll return to your hotel in Buon Ma Thuot City or the Dak Lak area 
 
 On my trip to Nha Trang I decided one afternoon to try this hike, recommended by Minh. Started late at 17:08 and hiked the 4.10 km forth and back in 1:34 with an elevation gain of 462 meters.. Highest point 348m [in Strava](https://www.strava.com/activities/15615241134) after 1.53 kilometers. [Second account](https://strava.app.link/ewvP3qGKN1b) with iPhone measured 347 meters. The third peak seems to be a little lower. Ascent to the second one is very steep. The descent was in the dark! But I got a phantastic AQI of 2!
 - 2025-08-29 17:18 - 18:27 into the darkness
+
+## Núi Chư Mư - Chư H'Mu- 2021m
+![[2026-03-26_Chu_Mu.jpg]]
+- **Location:** [Chư Mư - Chư H'Mu](https://maps.app.goo.gl/EufRVBxxNUD3Xr4y9), **distance:** [442 km](https://maps.app.goo.gl/j7Co6LrJoSAkEtRP7), 9h44
+- **Details:** 2021 meters and one of the rather challenging paths in Vietnam, usually 2d1n or 3d2n
+- **Hike**: 26km and 22 hours (22.07km up and return, 20h03 [on Google](https://maps.app.goo.gl/w9fYYu5XupygNDgx7)) on one day
+
+Chu Mu is located in Ea M'Doal commune, M'Drắk district, Đắk Lắk province – one of the border areas between the Central Highlands and the South Central Coast, close to the core area of ​​the Chu Yang Sin special-use forest and the Ea Sô Nature Reserve.
+
+Description on wetrek: https://wetrek.vn/bai-viet-thanh-vien/kinh-nghiem-trekking-chu-mu.htm And then there is Виктор Викторович who did it [in one day](https://maps.app.goo.gl/C5hQHJk4M5MwQqxT8). It looks like he started at [this lang làng trên location](https://maps.app.goo.gl/C5hQHJk4M5MwQqxT8). It looks (like all the other photos) he only got close to about 1910m. The starting point is at 490m height, no path on Strava, but on OpenStreetMaps. One way looks like 10k as-the-crow-flies.
 ## Mỏm Đá Tử Thần, Meo Vac, Ha Giang Loop - 1320m
 ![[2025-11-04_Meo_Vac-Pai_Lung.jpeg]]
 - **Location**: [Mỏm Đá Tử Thần](https://maps.app.goo.gl/AR7h8NDrhqeYSjoZA), **distance**: [1929 km](https://maps.app.goo.gl/1iPyQDKrhwFJrzPq6), 1d14hr
@@ -165,24 +175,24 @@ It is the highest peak in southeast Asia, including Vietnam, Laos and Cambodia. 
 ## Summary table
 
 
-| place                               | distance |  time  | height | hike distance | hike time | date       |
-| ----------------------------------- | :------: | :----: | -----: | ------------: | :-------: | ---------- |
-| Khu dự trữ sinh quyển thế giới      |    40    | 01:05  |     10 |           1.3 |   00:30   | 2019-01-15 |
-| Khu căn cứ Vàm Sát Đảo Khỉ          |    53    | 01:19  |     15 |           2.5 |   00:40   | 2026-03-02 |
-| Núi Thị Vải                         |    58    | 01:14  |    467 |           5.1 |   01:40   | 2025-07-24 |
-| Núi Dinh blue                       |    81    | 02:07  |    491 |           8.1 |   05:25   | 2026-02-24 |
-| Núi Dinh red                        |    81    | 02:07  |    491 |          15.0 |   04:57   | 2025-07-07 |
-| Hồ Trị An                           |    67    | 02:02  |     15 |          26.4 |   05:57   | 2026-03-11 |
-| Vũng Tàu - Tương Kỳ                 |    99    | 02:31  |    245 |               |           |            |
-| Núi lửa Sok Lu                      |    85    | 02:10  |    418 |               |           |            |
-| Núi Chứa Chan                       |   100    | 02:22  |    837 |               |           | 2026-03-11 |
-| Black Virgin Mountain - Núi Bà Đen  |   106    | 02:33  |    986 |           9.4 |   03:33   | 2026-02-16 |
-| Vườn quốc gia Cát Tiên              |   148    | 02:55  |    110 |           4.6 |   01:15   | 2019-05-16 |
-| Núi Tà Cú                           |   163    | 03:21  |    694 |               |           |            |
-| Vồ Bồ Hong - Núi Cấm                |   255    | 05:21  |    705 |           3.1 |   02:43   | 2024-02-17 |
-| Núi Nam JerBri in the Nam Nung      |   270    | 06:32  |   1578 |               |           |            |
-| Núi Lang Biang                      |   314    | 06:43  |   2167 |          13.0 |   05:01   |            |
-| Núi Chư Yang Sin                    |   356    | 07:47  |   2420 |               |           |            |
-| Hòn Ngang - Angel Mountain -Cô Tiên |   441    | 08:33  |    352 |           4.1 |   01:43   | 2025-08-29 |
-| Phan Xi Păng - Fansipan             |   1816   | 1d 11h |   3147 |          23.7 |   10:24   | 2025-10-29 |
-| Mỏm Đá Tử Thần, Meo Vac             |   1929   | 1d 14h |   1320 |           1.6 |   01:14   | 2025-11-04 |
+| place                               | distance |  time  | height | hiking distance | hiking time |    date    |
+| ----------------------------------- | :------: | :----: | -----: | --------------: | :---------: | :--------: |
+| Khu dự trữ sinh quyển thế giới      |    40    | 01:05  |     10 |             1.3 |    00:30    |  19-01-15  |
+| Khu căn cứ Vàm Sát Đảo Khỉ          |    53    | 01:19  |     15 |             2.5 |    00:40    |  26-03-02  |
+| Núi Thị Vải                         |    58    | 01:14  |    467 |             5.1 |    01:40    |  25-07-24  |
+| Núi Dinh blue                       |    81    | 02:07  |    491 |             8.1 |    05:25    |  26-02-24  |
+| Núi Dinh red                        |    81    | 02:07  |    491 |            15.0 |    04:57    |  25-07-07  |
+| Hồ Trị An                           |    67    | 02:02  |     15 |            26.4 |    05:57    |  26-03-11  |
+| Vũng Tàu - Tương Kỳ                 |    99    | 02:31  |    245 |                 |             |            |
+| Núi lửa Sok Lu                      |    85    | 02:10  |    418 |                 |             |            |
+| Núi Chứa Chan                       |   100    | 02:22  |    837 |                 |             |  26-03-11  |
+| Black Virgin Mountain - Núi Bà Đen  |   106    | 02:33  |    986 |             9.4 |    03:33    |  26-02-16  |
+| Vườn quốc gia Cát Tiên              |   148    | 02:55  |    110 |             4.6 |    01:15    |  19-05-16  |
+| Núi Tà Cú                           |   163    | 03:21  |    694 |                 |             |            |
+| Vồ Bồ Hong - Núi Cấm                |   255    | 05:21  |    705 |             3.1 |    02:43    |  24-02-17  |
+| Núi Nam JerBri in the Nam Nung      |   270    | 06:32  |   1578 |                 |             |            |
+| Núi Lang Biang                      |   314    | 06:43  |   2167 |            13.0 |    05:01    |            |
+| Núi Chư Yang Sin                    |   356    | 07:47  |   2420 |                 |             |            |
+| Hòn Ngang - Angel Mountain -Cô Tiên |   441    | 08:33  |    352 |             4.1 |    01:43    | 2025-08-29 |
+| Phan Xi Păng - Fansipan             |   1816   | 1d 11h |   3147 |            23.7 |    10:24    | 2025-10-29 |
+| Mỏm Đá Tử Thần, Meo Vac             |   1929   | 1d 14h |   1320 |             1.6 |    01:14    | 2025-11-04 |

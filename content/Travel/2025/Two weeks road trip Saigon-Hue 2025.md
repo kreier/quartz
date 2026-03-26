@@ -64,7 +64,7 @@ This was an idea since 2024 and in the planning since Tet 2025. Nga organized th
 
 Three hours back to HCM is quite doable. Did it with Thanh and Nga again on 2026/03/17.
 ## Travel statistics
-We have a Google Sheets document, that got updated during the trip: https://docs.google.com/spreadsheets/d/1DL9I2VbdvDbVNoOwKOIrviRRfkX9sTGWIowKSzxaHwk/edit?usp=sharing
+We have a Google Sheets document, that got updated during the trip: [link to Google sheet](https://docs.google.com/spreadsheets/d/1DL9I2VbdvDbVNoOwKOIrviRRfkX9sTGWIowKSzxaHwk/edit?usp=sharing)
 
 The main insight is:
 
@@ -85,7 +85,8 @@ The main insight is:
 | T6  | 05-30 |            Phan Thiết             |    0 |
 | T7  | 05-31 |         Phan Thiết - HCM          |  167 |
 |     |       |                sum                | 2650 |
-Driving 2650 kilometer in 14 days is 2650/14 = 189 kilometers per day on average. And two days we didn't go anywhere (Đà Nẵng and Phan Thiết). Other days like on May 23rd we started with a relaxed breakfast, spend half a day visiting the Imperial City of Huệ and just drove down to Đà Nẵng in the afternoon, just to meet with brothers and sisters in the evening.
+
+Driving 2650 kilometer in 14 days is 2650/14 = **189 kilometers per day** on average. And two days we didn't go anywhere (Đà Nẵng and Phan Thiết). Other days like on May 23rd we started with a relaxed breakfast, spend half a day visiting the Imperial City of Huệ and just drove down to Đà Nẵng in the afternoon, just to meet with brothers and sisters in the evening.
 
 ## References
 - [[Motorbike in Vietnam]]

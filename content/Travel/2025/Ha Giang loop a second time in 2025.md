@@ -2,7 +2,7 @@
 created: 2025-11-02
 updated: 2025-11-07
 ---
-The week in Hanoi is coming to an end, see [[One week in Hanoi and Sapa 2025]]
+The week in Hanoi is coming to an end, see part II: [[One week in Hanoi and Sapa 2025]]. This is Part III:
 ## 11-02 The long journey to Lũng Cú 496.8 km
 In the morning I can finally meet with Markus at a Cafe. We're both in Vietnam since 2016, but never actually met. With the exeption of a coincidence in Quy Nhon in August 2025. Hanoi and Saigon are far away and we have limited time to visit each others cities.
 
@@ -60,4 +60,9 @@ In a Google sheet I noted the distance traveled with my bike each day since leav
 | 11-06 | Quảng Ngãi                        |      636.1 | 14  |
 | 11-07 | Ho Chi Minh                       |      822.4 | 15  |
 
-This was the first table integrated in my notes like that. Maybe I can find more for other journeys? Just for documentation, and later reference. The total journey was 5275.5 kilometers!
+This was the first table integrated in my notes like that. Maybe I can find more for other journeys? Just for documentation, and later reference. The total journey was 5275.5 kilometers! That's on average much more than the **189 kilometers per day** from [[Two weeks road trip Saigon-Hue 2025]] from earlier in 2025. In fact, This time the whole trip is 5275.5/15 = **351.7 kilometers per day** (1.86x).
+## References
+- [[Motorbike in Vietnam]]
+- **Part I:** 2025-10-24 to 10-27: [[Three day journey to Hanoi 2025]], 1695 km
+- **Part II:** 2025-10-28 to 11-01: [[One week in Hanoi and Sapa 2025]], 1507 km
+- **Part III:** 2025-11-02 to 11-07: This page, Ha Giang loop a second time in 2025, 2073 km 
