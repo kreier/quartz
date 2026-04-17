@@ -106,10 +106,12 @@ Nhoc Minh organized this trip for Tet 2024 up the whole 640 meters up. Location:
 The website wetrek.vn has a [Vietnamese description](https://wetrek.vn/bai-viet-thanh-vien/khu-bao-ton-thien-nhien-nam-nung-diem-cam-trai-ly-tuong-cho-dan-ua-mao-hiem.htm) of the hike there from 2020. The núi Nâm Nung is 1.512m high, and deeper into the forest núi JerRri is 1578m high. 
 
 ## Núi Lang Biang - 2167m
-- Location: [Lang Biang near Da Lat](https://maps.app.goo.gl/iDn4AYbXPgZMaKMd6), distance: [314 km](https://maps.app.goo.gl/xgoXjaejz3EiS2Tv8), 6h43
-- Details: height 2167 meters, surrounding base is 1500 meter
+![[2026-04-06_LangBiang_Peak.jpg]]
+- **Location:** [Lang Biang near Da Lat](https://maps.app.goo.gl/iDn4AYbXPgZMaKMd6), and **distance:** [314 km](https://maps.app.goo.gl/xgoXjaejz3EiS2Tv8), 6h43
+- **Details:** height 2167 meters, surrounding base is 1500 meter
 - Entrance: 50k, someone reported 5 hours for the 8 miles/13km round course
 
+Went there on a [[Daytrip to Núi Lang Biang]] in April 2026. Total distance: 12.8 kilometer in 3h53 with breaks.
 ## Núi Chư Yang Sin - 2420m
 - **Location:** [Chư Yang Sin](https://maps.app.goo.gl/pM5MyeFRYZh2geR8A), distance to [Thác Krông](https://maps.app.goo.gl/t9whTrvsf19oxhYR6) Kmar [356 km](https://maps.app.goo.gl/eLv67cmQfwKNA9HJ8) 7h47
 - **Details:** height 2442m and 2405m according to [Google Review](https://maps.app.goo.gl/WEc6hfRSSaEhsdEq8), surrounding area is at 500m elevation, located between Dalat and BMT
@@ -137,6 +139,7 @@ By 5:00 PM, we’ll have dinner at a traditional longhouse, featuring local spec
 Finally, we’ll return to your hotel in Buon Ma Thuot City or the Dak Lak area at 6:30 PM, concluding an incredible journey filled with adventure and cultural richness.
 
 ## Hòn Ngang - Angel mountains in Nha Trang - 352m
+![[2025-08-29_AngelMountain_NaTrang.jpg]]
 - **Location:** [Hòn Ngang or Cô Tiên](https://maps.app.goo.gl/LbAF4T2wAaHpVNsN9), **distance:** [441 km](https://maps.app.goo.gl/A9wqbyB6eeuTUiaF7), 8h33
 - **Details:** 352 meters high, no entry fee, second peak is highest and 1.53 km away, 45 min
 - **Hike**: [4.10 km](https://www.strava.com/activities/15615241134) to all 3 peaks and return, 1h43
@@ -177,12 +180,12 @@ It is the highest peak in southeast Asia, including Vietnam, Laos and Cambodia. 
 
 | place                               | distance |  time  | height | hiking distance | hiking time |    date    |
 | ----------------------------------- | :------: | :----: | -----: | --------------: | :---------: | :--------: |
-| Khu dự trữ sinh quyển thế giới      |    40    | 01:05  |     10 |             1.3 |    00:30    |  19-01-15  |
-| Khu căn cứ Vàm Sát Đảo Khỉ          |    53    | 01:19  |     15 |             2.5 |    00:40    |  26-03-02  |
-| Núi Thị Vải                         |    58    | 01:14  |    467 |             5.1 |    01:40    |  25-07-24  |
-| Núi Dinh blue                       |    81    | 02:07  |    491 |             8.1 |    05:25    |  26-02-24  |
-| Núi Dinh red                        |    81    | 02:07  |    491 |            15.0 |    04:57    |  25-07-07  |
-| Hồ Trị An                           |    67    | 02:02  |     15 |            26.4 |    05:57    |  26-03-11  |
+| Khu dự trữ sinh quyển thế giới      |    40    | 01:05  |     10 |             1.3 |    00:30    | 2019/01/15 |
+| Khu căn cứ Vàm Sát Đảo Khỉ          |    53    | 01:19  |     15 |             2.5 |    00:40    | 2026/03/02 |
+| Núi Thị Vải                         |    58    | 01:14  |    467 |             5.1 |    01:40    | 2025/07/24 |
+| Núi Dinh blue                       |    81    | 02:07  |    491 |             8.1 |    05:25    | 2026/02/24 |
+| Núi Dinh red                        |    81    | 02:07  |    491 |            15.0 |    04:57    | 2025/07/07 |
+| Hồ Trị An                           |    67    | 02:02  |     15 |            26.4 |    05:57    | 2026/03/11 |
 | Vũng Tàu - Tương Kỳ                 |    99    | 02:31  |    245 |                 |             |            |
 | Núi lửa Sok Lu                      |    85    | 02:10  |    418 |                 |             |            |
 | Núi Chứa Chan                       |   100    | 02:22  |    837 |                 |             |  26-03-11  |
@@ -191,8 +194,8 @@ It is the highest peak in southeast Asia, including Vietnam, Laos and Cambodia. 
 | Núi Tà Cú                           |   163    | 03:21  |    694 |                 |             |            |
 | Vồ Bồ Hong - Núi Cấm                |   255    | 05:21  |    705 |             3.1 |    02:43    |  24-02-17  |
 | Núi Nam JerBri in the Nam Nung      |   270    | 06:32  |   1578 |                 |             |            |
-| Núi Lang Biang                      |   314    | 06:43  |   2167 |            13.0 |    05:01    |            |
+| Núi Lang Biang                      |   314    | 06:43  |   2167 |            12.8 |    03:51    | 2026/04/06 |
 | Núi Chư Yang Sin                    |   356    | 07:47  |   2420 |                 |             |            |
-| Hòn Ngang - Angel Mountain -Cô Tiên |   441    | 08:33  |    352 |             4.1 |    01:43    | 2025-08-29 |
+| Hòn Ngang - Angel Mountain -Cô Tiên |   441    | 08:33  |    352 |             4.1 |    01:43    | 2025/08/29 |
 | Phan Xi Păng - Fansipan             |   1816   | 1d 11h |   3147 |            23.7 |    10:24    | 2025-10-29 |
 | Mỏm Đá Tử Thần, Meo Vac             |   1929   | 1d 14h |   1320 |             1.6 |    01:14    | 2025-11-04 |
