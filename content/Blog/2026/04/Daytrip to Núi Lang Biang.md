@@ -14,8 +14,10 @@ It's rather steep for the last part. And the way back has a lot of loose sand go
 
 And I was not hiking alone, I had 4 companions and their Strava App with me:
 
-- as
-- as
+- [Matthias Kreier](https://www.strava.com/activities/17995335635), Taipei City, Taiwan, 11.68km, **20 pictures**, iPhone, since 2017 (spring race)
+- [Matthias Kreier](https://www.strava.com/activities/17995369353), Hồ Chí Minh, Vietnam, Note 20, since July 2025
+- [Frederick Aiken](https://www.strava.com/activities/17995391551), Nha Trang, Khánh Hòa, Vietnam, Note 8, since September 2025
+- [Matthias Kreier](https://www.strava.com/activities/17995303842), Xuân Hương - Đà Lạt, Lâm Đồng, Vietnam, 11.7 km, S24, since April 2026
 
 
 The night before it was great to see the [Ursa Major](https://en.wikipedia.org/wiki/Ursa_Major) or specifically the [Big Dipper](https://en.wikipedia.org/wiki/Big_Dipper) in the sky. It's been some tome.

@@ -27,4 +27,8 @@ Now I have to add the university behind the semester name, since it's already my
 		- Mọi người **thế nào** mình **thế ấy**.
 		- Ngấy ấy Lan ghét Vũ **bao nhiêu** thì bây giờ thương Vũ **bấy nhiêu**.
 3. **Làm**/ **Làm cho**: *Causative verbs, i.e. to make or to cause a new status for someone or something.*
-		
+		d
+
+## Semester overview
+- [[Semester 1 hcmue.edu.vn]]
+- [[Semester 2 hcmue.edu.vn]]

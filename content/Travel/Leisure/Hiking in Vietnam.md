@@ -146,7 +146,7 @@ Finally, we’ll return to your hotel in Buon Ma Thuot City or the Dak Lak area 
 - **One way:** 1.61 km, 351 m height, 36min 30s ([Strava](https://strava.app.link/ewvP3qGKN1b), Apple watch water damage)
 
 On my trip to Nha Trang I decided one afternoon to try this hike, recommended by Minh. Started late at 17:08 and hiked the 4.10 km forth and back in 1:34 with an elevation gain of 462 meters.. Highest point 348m [in Strava](https://www.strava.com/activities/15615241134) after 1.53 kilometers. [Second account](https://strava.app.link/ewvP3qGKN1b) with iPhone measured 347 meters. The third peak seems to be a little lower. Ascent to the second one is very steep. The descent was in the dark! But I got a phantastic AQI of 2!
-- 2025-08-29 17:18 - 18:27 into the darkness
+- **2025-08-29** [[Angel Mountain in Nha Trang]] 17:18 - 18:27 into the darkness
 
 ## Núi Chư Mư - Chư H'Mu- 2021m
 ![[2026-03-26_Chu_Mu.jpg]]
@@ -178,24 +178,24 @@ It is the highest peak in southeast Asia, including Vietnam, Laos and Cambodia. 
 ## Summary table
 
 
-| place                               | distance |  time  | height | hiking distance | hiking time |    date    |
-| ----------------------------------- | :------: | :----: | -----: | --------------: | :---------: | :--------: |
-| Khu dự trữ sinh quyển thế giới      |    40    | 01:05  |     10 |             1.3 |    00:30    | 2019/01/15 |
-| Khu căn cứ Vàm Sát Đảo Khỉ          |    53    | 01:19  |     15 |             2.5 |    00:40    | 2026/03/02 |
-| Núi Thị Vải                         |    58    | 01:14  |    467 |             5.1 |    01:40    | 2025/07/24 |
-| Núi Dinh blue                       |    81    | 02:07  |    491 |             8.1 |    05:25    | 2026/02/24 |
-| Núi Dinh red                        |    81    | 02:07  |    491 |            15.0 |    04:57    | 2025/07/07 |
-| Hồ Trị An                           |    67    | 02:02  |     15 |            26.4 |    05:57    | 2026/03/11 |
-| Vũng Tàu - Tương Kỳ                 |    99    | 02:31  |    245 |                 |             |            |
-| Núi lửa Sok Lu                      |    85    | 02:10  |    418 |                 |             |            |
-| Núi Chứa Chan                       |   100    | 02:22  |    837 |                 |             |  26-03-11  |
-| Black Virgin Mountain - Núi Bà Đen  |   106    | 02:33  |    986 |             9.4 |    03:33    |  26-02-16  |
-| Vườn quốc gia Cát Tiên              |   148    | 02:55  |    110 |             4.6 |    01:15    |  19-05-16  |
-| Núi Tà Cú                           |   163    | 03:21  |    694 |                 |             |            |
-| Vồ Bồ Hong - Núi Cấm                |   255    | 05:21  |    705 |             3.1 |    02:43    |  24-02-17  |
-| Núi Nam JerBri in the Nam Nung      |   270    | 06:32  |   1578 |                 |             |            |
-| Núi Lang Biang                      |   314    | 06:43  |   2167 |            12.8 |    03:51    | 2026/04/06 |
-| Núi Chư Yang Sin                    |   356    | 07:47  |   2420 |                 |             |            |
-| Hòn Ngang - Angel Mountain -Cô Tiên |   441    | 08:33  |    352 |             4.1 |    01:43    | 2025/08/29 |
-| Phan Xi Păng - Fansipan             |   1816   | 1d 11h |   3147 |            23.7 |    10:24    | 2025-10-29 |
-| Mỏm Đá Tử Thần, Meo Vac             |   1929   | 1d 14h |   1320 |             1.6 |    01:14    | 2025-11-04 |
+| place                                                 | distance |  time  | height | hiking distance | hiking time |    date    |
+| ----------------------------------------------------- | :------: | :----: | -----: | --------------: | :---------: | :--------: |
+| [[Monkey Island\|Khu dự trữ sinh quyển thế giới]]     |    40    | 01:05  |     10 |             1.3 |    00:30    | 2019/01/15 |
+| Khu căn cứ Vàm Sát Đảo Khỉ                            |    53    | 01:19  |     15 |             2.5 |    00:40    | 2026/03/02 |
+| [[Núi Thị Vải I\|Núi Thị Vải]]                        |    58    | 01:14  |    467 |             5.1 |    01:40    | 2025/07/24 |
+| [[Núi Đinh III\|Núi Dinh blue]]                       |    81    | 02:07  |    491 |             8.1 |    05:25    | 2026/02/24 |
+| [[Núi Đinh II\|Núi Dinh red]]                         |    81    | 02:07  |    491 |            15.0 |    04:57    | 2025/07/07 |
+| [[Hồ Trị An - Tri An Lake\|Hồ Trị An]]                |    67    | 02:02  |     15 |            26.4 |    07:57    | 2026/03/11 |
+| Vũng Tàu - Tương Kỳ                                   |    99    | 02:31  |    245 |                 |             |            |
+| Núi lửa Sok Lu                                        |    85    | 02:10  |    418 |                 |             |            |
+| [[Núi Chứa Chan]]                                     |   100    | 02:22  |    837 |                 |             | 2026/03/11 |
+| [[Black Virgin Mountain - Núi Bà Đen]]                |   106    | 02:33  |    986 |             9.4 |    03:33    | 2026/02/16 |
+| [[Cat Tien National Park II\|Vườn quốc gia Cát Tiên]] |   148    | 02:55  |    110 |             4.6 |    01:15    | 2019/05/16 |
+| Núi Tà Cú                                             |   163    | 03:21  |    694 |                 |             |            |
+| Vồ Bồ Hong - Núi Cấm                                  |   255    | 05:21  |    705 |             3.1 |    02:43    | 2024/02/17 |
+| Núi Nam JerBri in the Nam Nung                        |   270    | 06:32  |   1578 |                 |             |            |
+| Núi Lang Biang                                        |   314    | 06:43  |   2167 |            12.8 |    03:51    | 2026/04/06 |
+| Núi Chư Yang Sin                                      |   356    | 07:47  |   2420 |                 |             |            |
+| Hòn Ngang - Angel Mountain -Cô Tiên                   |   441    | 08:33  |    352 |             4.1 |    01:43    | 2025/08/29 |
+| Phan Xi Păng - Fansipan                               |   1816   | 1d 11h |   3147 |            23.7 |    10:24    | 2025/10/29 |
+| Mỏm Đá Tử Thần, Meo Vac                               |   1929   | 1d 14h |   1320 |             1.6 |    01:14    | 2025/11/04 |
