@@ -222,7 +222,9 @@ A comparable model in size in 2026 is now available with [nemotron-3-nano](https
 | [gpt-oss:20b](https://ollama.com/library/gpt-oss)                 | 14GB |   20.9B   |    128K |   42    |   238   |  2   |   25   |
 | [gemma3:4b](https://ollama.com/library/gemma3)                    |  4GB |   4.3B    |    128K |   45    |   322   |  1   |   35   |
 
-Surprisingly the largest model in this 30B class is also the fastest: nemotron-3-nano. With its **MoE architecture** it rivals much smaller 20B and 4B models! All that on 10 year old hardware.
+Surprisingly the largest model in this 30B class is also the fastest: nemotron-3-nano. With its **MoE architecture** it rivals much smaller 20B and 4B models! All that on 10 year old hardware!
+
+<img src="2026-02-19_penta.jpg" width="49%">  <img src="2026-02-19_spark.jpg" width="49%">
 ### Comparison of Nemotron-3 speed
 On February 7th, 2026, Alex Ziskind [published a video](https://youtu.be/QbtScohcdwI?si=9BN22xzaDyVyXLVO&t=845) of the **NVIDIA DGX Spark** for $4000 and it's speed comparison to three similar products. In a later part he tested the very [Nemotron-3-Nano-30B](https://huggingface.co/unsloth/Nemotron-3-Nano-30B-A3B-GGUF) model (at 14:05) that I used, but in a non-quantized version (BF16 with 63.2 GB vs. Q4_K_M 24.6GB, 2.57x smaller).
 
@@ -232,6 +234,10 @@ On February 7th, 2026, Alex Ziskind [published a video](https://youtu.be/QbtScoh
 
 My prompt processing is 2-10x slower. But that's just the initial start of generating the answer, usually just a few seconds. The very answer later is sometimes generated in several minutes. And here there is not much of a difference: 61 t/s vs. 38 t/s. Saved a few thousand dollars! The DGX Spark would be only 60% faster but with $136 for my 4 GPUs are **29x cheaper**!
 
+![[2026-02-26_pp4096.svg]]
+![[2026-02-26_tg8196 1.svg]]
+![[2026-02-26_power.svg]]
+![[2026-02-26_price.svg]]
 #### Qwen3-4B
 
 Let's test the smaller model [Qwen3-4B](https://huggingface.co/Qwen/Qwen3-4B):
@@ -250,7 +256,12 @@ The instructions:
 ```Bash
 CUDA_VISIBLE_DEVICES=3 ./build/bin/llama-bench -m ~/.cache/llama.cpp/Qwen_Qwen3-4B-GGUF_Qwen3-4B-Q4_K_M.gguf -ngl 99 -p 4096 -n 8192
 ```
+Meaning of the parameters:
+- `-ngl 99 ` How many transformer layers are offloaded to the GPU. **N**umber of **G**PU **L**ayers, hardware utilization balance
+- `-p` Number of tokens in the **_p**rompt_ (input context). Tests **bulk throughput** (how fast you can load context)
+- `-n ` **N**umber of tokens to generate after the prompt. Tests **interactive speed** (tokens/sec during generation)
 
+To explore later: `-n_batch 128` to see how much of a bottleneck the memory bandwidth is compared to the processing power.
 ## F) Build llama.cpp for Pascal
 This is not that easy. The latest stable Nvidia driver is from the 535 branch, currently 535.288.01. The CUDA compiler shipping with the 535 driver is 12.2, but this version does not support Ubuntu 24.04, only 20.04 and 22.04. Ubuntu 24.04 ships with gcc 13, but CUDA 12.2 only works with gcc 12. I was not able to get a working image with CUDA Compiler 12.9, the latest to support the Pascal architecture. Everything below CC 7.5 was dropped with version 13.
 
