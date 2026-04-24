@@ -1,11 +1,11 @@
 ---
 title: Digital Garden
 ---
-This vault is *another* attempt to document and structure some of [[My Projects|my projects]], [[My Websites|websites]], smaller events and ideas from [[About the blog|blog]] and a general overview of events in my life from [[My Diary|my diary]] plus some experiences in my [[Leisure|leisure time]] into **one** cohesive place. Over time I want to include some [[Travel history|travel stories]]. As of 2026/02/25 this vault has 117 md and 332 files total. These contain 53835 words, it would take 3h23 to read all.
+This vault is *another* attempt to document and structure some of [[My Projects|my projects]], [[My Websites|websites]], smaller events and ideas from [[About the blog|blog]] and a general overview of events in my life from [[My Diary|my diary]] plus some experiences in my [[Leisure|leisure time]] into **one** cohesive place. Over time I want to include some [[Travel history|travel stories]]. As of 2026/04/24 this vault has 146 md and 437 files total. These contain 69181 words, it would take 4h21 to read all.
 
 Here are a few highlights from the 5 categories:
 ## 1. [[My Projects]]
-My life is filled with unfinished projects and new ideas, that I continue to start pursuing. Documenting and organizing these projects, maybe even to finish them, is just another project. On GitHub I started projects in 2018, and by 2020 there were already 35 projects. At the end of 2025 this has grown to more than 170 repositories, with some (like [timeline](https://github.com/kreier/timeline)) having hundreds of commits. 
+My life is filled with unfinished projects and new ideas, that I continue to start pursuing. Documenting and organizing these projects, maybe even to finish them, is just another project. On GitHub I started projects in 2018, and by 2020 there were already 35 projects. At the end of 2025 this has grown to more than 180 repositories, with some (like [timeline](https://github.com/kreier/timeline)) having hundreds of commits. 
 
 ![[timeline20250925_5.9.jpg]]
 
