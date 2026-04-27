@@ -235,7 +235,7 @@ On February 7th, 2026, Alex Ziskind [published a video](https://youtu.be/QbtScoh
 My prompt processing is 2-10x slower. But that's just the initial start of generating the answer, usually just a few seconds. The very answer later is sometimes generated in several minutes. And here there is not much of a difference: 61 t/s vs. 38 t/s. Saved a few thousand dollars! The DGX Spark would be only 60% faster but with $136 for my 4 GPUs are **29x cheaper**!
 
 ![[2026-02-26_pp4096.svg]]
-![[2026-02-26_tg8196 1.svg]]
+![[2026-02-26_tg8196.svg]]
 ![[2026-02-26_power.svg]]
 ![[2026-02-26_price.svg]]
 #### Qwen3-4B
