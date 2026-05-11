@@ -16,4 +16,5 @@ Two times the charm. Previous attempt on June 20th, [[Núi Thị Vải I]], abou
 
 ## References
 - [[Hiking in Vietnam]]
+- [[Núi Thị Vải]]
 - [[Núi Thị Vải I]] - 2025-06-20
