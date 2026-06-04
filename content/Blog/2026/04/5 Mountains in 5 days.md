@@ -3,7 +3,7 @@ date: 2026-04-29
 ---
 With no lesson on Wednesday, and given Thursday and Friday are holidays - that's 5 days to start some hiking adventures! Here are the goals:
 
-- 29.04. Vũng Tàu, [[Núi Vũng Maý]] - 220 m
+- 29.04. Vũng Tàu, [[Núi Vũng Maý I]] - 220 m
 - 30.04. [[Núi Chứa Chan I]] - 837 m
 - 01.05. [[Núi Tà Cú II]] - 694 m
 - 02.05. [[Núi Brah Yang I]] - 1879 (1866) m
@@ -11,7 +11,7 @@ With no lesson on Wednesday, and given Thursday and Friday are holidays - that's
 
 The start on Wednesday is a little delayed because of a 200M investment to preferred conditions at Vietcombank. It pays to be a "Titan" customer, just hit the limit with AML laws.
 
-## Wednesday - 
+## Wednesday - Mountains in Vũng Tàu, [[Núi Vũng Maý I]]
 
 There are a few mountains in Vũng Tàu, but actually accessible are only a few:
 

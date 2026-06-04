@@ -44,16 +44,16 @@ Less than 2 hours from HCM a quiet place to spend the night in a tent, enjoy BBQ
 - Location: [Hồ Trị An](https://maps.app.goo.gl/Y4RDSrYmB7iFtRW8A), and **distance**: [67km](https://maps.app.goo.gl/Y4RDSrYmB7iFtRW8A), 2h02
 - Visits: 2021-02 and 2026-03-11
 
-## Vũng Tàu - [[Núi Vũng Maý]] Tương Kỳ - 245m
+## Vũng Tàu - [[Núi Vũng Maý]] - 235m
 
 - **Location:** [Thiền viện Chơn Không](https://maps.app.goo.gl/C6g2Yj9MTRKCVSbH8), and **distance**: [99km](https://maps.app.goo.gl/ahcd6unvcS64DAU2A), 2h31
-- **Details:** 210m or 245 meters high 
+- **Details:** 235 meter height, round trip 4 kilometer in under 2 hours
 
-The mountain Tương Kỳ in Vũng Tàu is only 210 meters high. At least it's a short hike though some green. Location: [44 Vi Ba, Phường 1, Vũng Tàu, Bà Rịa - Vũng Tàu](https://maps.app.goo.gl/KBztQfggeMTAKeRV7). First documented in my [[5 Mountains in 5 days]] trip in 2026, the trip I would recommend is Núi Vũng Máy. 
+There are actually several mountain tops you can consider in Vũng Tàu. But some require entrance, and others can also easily reached by motorbike. I have a list of four peaks I explored in the [[Núi Vũng Maý]] article - the mountain I actually recommend to hike. My first documentation happened during my [[5 Mountains in 5 days]] trip in 2026.
 
-- [[Núi Vũng Maý I]] - 
+The mountain **Tương Kỳ** in Vũng Tàu is slightly higher with 245 meter and actually connected to **Vũng Maý**. I drove the road between both mountains on my motorbike, but was stopped at a gate for the top part. This is now an entertainment center with 400k VND entrace fee and a cable car to the top.
 
-You can also take the ferry from Can Gio. It is 70k for the motorbike and 50k for a passanger. On your own therefore 120k, if you're riding with someone it's 170k.
+An alternative way to go to Vũng Tàu is a ferry from **Can Gio**. Near Saigon the way leads over another ferry and down to monkey island (see [[Hiking in Vietnam#Monkey Island|Monkey Island]] above). From Can Gio the ferry is **70k** for the motorbike and **50k** for a passenger. On your own therefore 120k, if you're riding with someone it's 170k.
 ## Núi lửa Sok Lu - 418m
 
 You can see [this mountain](https://maps.app.goo.gl/FkWgxEr7B2cMYjdz6) from the Tri An Lake, but it's actually not a hiking spot. The nearby town is already at 180 meter elevation, and you can drive through banana fields to get closer and a height of 280 meters. The peak is a little more than 400 meter. A farmer told me that you have a narrow road up that is best 7:00 am to 8:00 am to avoid oncoming traffic since you can't pass. I **could not find** this trail on satellite pictures or the Strava heat map. Probably best to find another goal. [[Núi Chứa Chan]] is not far away! I checked it out on 2026/03/11.

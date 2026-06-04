@@ -6,7 +6,10 @@ The neighboring country Chechia offers great hiking trails in the so called "Sä
 ### Vietnam - [[Hiking in Vietnam]]
 The hiking nature is not yet as developed as in Europe or America, but constantly improving. A few hikes I took:
 
-- [Núi Dinh](https://maps.app.goo.gl/xQxzyHcRg4F7oM7d8) near Vũng Tàu, some 450 meters high and 2h25 away from Hoof Chis Minh City. 
+- [[Núi Thị Vải]] just 1h14 from the Ben Thanh market, **467** meters, round trip 5.07 km 1h40.
+- [Núi Dinh](https://maps.app.goo.gl/xQxzyHcRg4F7oM7d8) near Vũng Tàu, some **491** meters high and 2h25 away from TP HCM.
+- [[Núi Chứa Chan]] 100 km away 2h22, **837** meters and difficult 6 hours round trip.
+- [[Black Virgin Mountain - Núi Bà Đen]] 106 km away 2h33, roundtrip 9.42 km in under 4 hours
 
 ## Canoe trips
 For a few years in the early 2000 we regularly went on trips to the uncivilized world (no roads, only accessible by water) to camp and enjoy nature.
