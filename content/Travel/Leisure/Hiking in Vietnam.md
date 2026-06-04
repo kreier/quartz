@@ -44,12 +44,14 @@ Less than 2 hours from HCM a quiet place to spend the night in a tent, enjoy BBQ
 - Location: [Hồ Trị An](https://maps.app.goo.gl/Y4RDSrYmB7iFtRW8A), and **distance**: [67km](https://maps.app.goo.gl/Y4RDSrYmB7iFtRW8A), 2h02
 - Visits: 2021-02 and 2026-03-11
 
-## Vũng Tàu - Tương Kỳ - 245m
+## Vũng Tàu - [[Núi Vũng Maý]] Tương Kỳ - 245m
 
 - **Location:** [Thiền viện Chơn Không](https://maps.app.goo.gl/C6g2Yj9MTRKCVSbH8), and **distance**: [99km](https://maps.app.goo.gl/ahcd6unvcS64DAU2A), 2h31
 - **Details:** 210m or 245 meters high 
 
-The mountain Tương Kỳ in Vũng Tàu is only 210 meters high. At least it's a short hike though some green. Location: [44 Vi Ba, Phường 1, Vũng Tàu, Bà Rịa - Vũng Tàu](https://maps.app.goo.gl/KBztQfggeMTAKeRV7).
+The mountain Tương Kỳ in Vũng Tàu is only 210 meters high. At least it's a short hike though some green. Location: [44 Vi Ba, Phường 1, Vũng Tàu, Bà Rịa - Vũng Tàu](https://maps.app.goo.gl/KBztQfggeMTAKeRV7). First documented in my [[5 Mountains in 5 days]] trip in 2026, the trip I would recommend is Núi Vũng Máy. 
+
+- [[Núi Vũng Maý I]] - 
 
 You can also take the ferry from Can Gio. It is 70k for the motorbike and 50k for a passanger. On your own therefore 120k, if you're riding with someone it's 170k.
 ## Núi lửa Sok Lu - 418m
