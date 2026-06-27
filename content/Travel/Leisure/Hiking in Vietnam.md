@@ -24,18 +24,19 @@ I've been there three times, the second time ([see Strava](https://www.strava.co
 - [[Núi Thị Vải I]] - 2025-06-20 - got to the top but could not find the cairn
 - [[Núi Thị Vải II]] - 2025-07-24 - top, loop 1h40, picture of cairn 50 m below peak
 - [[Núi Thị Vải III]] - 2026-05-03 - looping again, this time 1h50
-## Núi Dinh - 491m
+## [[Núi Dinh]] - 491m
 ![[2026-02-24_map.jpg]]
 - **Location**: [Núi Dinh](https://maps.app.goo.gl/WWSW9FWRozXMMGMG7) and **distance:** [81km](https://maps.app.goo.gl/rdp5pNjZY4T2UNG89), 2h07
 - **Details:** height **491** meters
 - **Blue route:** 8.12km, 5h25. Needs 1116 kcal.
 - **Red route:** 14.97km, 4h57. Needs 2048 kcal.
 
-Been there three times, the second time finishing the red loop in 4:57 on 2025-07-07 and burned 2048 kcal total. The total distance was 14.97 km, elevation gain 706 meter. Maximum height: 482m on Strava 2026-02-24 and 492m on Apple watch 2025-07-07.
+Been there three times, the second time finishing the red loop in 4:57 on 2025-07-07 and burned 2048 kcal total. The total hiking distance was 14.97 km, elevation gain 706 meter. Maximum height: 482m on Strava 2026-02-24 and 492m on Apple watch 2025-07-07.
 
-- [[Núi Đinh I]] - 2023-11-26 - more than 6 hours with shortcut at the end of the red loop
-- [[Núi Đinh II]] - 2025-07-07 - finished the red loop after 4h57 (3h49, 14.97km)
-- [[Núi Đinh III]] - 2026-02-24 - blue route with Pablo, Simon and Eddie after 5h25 (3h30, 8.12km)
+- [[Núi Dinh I]] - 2023-11-26 - more than 6 hours with shortcut at the end of the red loop
+- [[Núi Dinh II]] - 2025-07-07 - finished the <span style="color:red">red loop</span> after 4h57 (3h49, 14.97km)
+- [[Núi Dinh III]] - 2026-02-24 - <span style="color:blue">blue route</span> with Pablo, Simon and Eddie after 5h25 (3h30, 8.12km)
+- [[Nui Dinh IV]] - 2026-10-11 - future plan with brothers and sisters from 3 congregations
 
 ## Tri An: [[Hồ Trị An - Tri An Lake]]
 ![[2026-03-11_Tri_An_lake.jpg]]
@@ -44,7 +45,7 @@ Less than 2 hours from HCM a quiet place to spend the night in a tent, enjoy BBQ
 - Location: [Hồ Trị An](https://maps.app.goo.gl/Y4RDSrYmB7iFtRW8A), and **distance**: [67km](https://maps.app.goo.gl/Y4RDSrYmB7iFtRW8A), 2h02
 - Visits: 2021-02 and 2026-03-11
 
-## Vũng Tàu - [[Núi Vũng Maý]] - 235m
+## [[Mountains in Vũng Tàu]] - [[Núi Vũng Maý]] - 235m
 
 - **Location:** [Thiền viện Chơn Không](https://maps.app.goo.gl/C6g2Yj9MTRKCVSbH8), and **distance**: [99km](https://maps.app.goo.gl/ahcd6unvcS64DAU2A), 2h31
 - **Details:** 235 meter height, round trip 4 kilometer in under 2 hours
@@ -55,6 +56,8 @@ The mountain **Tương Kỳ** in Vũng Tàu is slightly higher with 245 meter an
 
 An alternative way to go to Vũng Tàu is a ferry from **Can Gio**. Near Saigon the way leads over another ferry and down to monkey island (see [[Hiking in Vietnam#Monkey Island|Monkey Island]] above). From Can Gio the ferry is **70k** for the motorbike and **50k** for a passenger. On your own therefore 120k, if you're riding with someone it's 170k.
 ## Núi lửa Sok Lu - 418m
+
+![[2026-03-11_Sok_Lu.jpg]]
 
 You can see [this mountain](https://maps.app.goo.gl/FkWgxEr7B2cMYjdz6) from the Tri An Lake, but it's actually not a hiking spot. The nearby town is already at 180 meter elevation, and you can drive through banana fields to get closer and a height of 280 meters. The peak is a little more than 400 meter. A farmer told me that you have a narrow road up that is best 7:00 am to 8:00 am to avoid oncoming traffic since you can't pass. I **could not find** this trail on satellite pictures or the Strava heat map. Probably best to find another goal. [[Núi Chứa Chan]] is not far away! I checked it out on 2026/03/11.
 
@@ -112,6 +115,14 @@ First I only got to the entrance with [[Núi Tà Cú I]] on 2026/03/15. Minh con
 - [[Núi Tà Cú I]] - 2026-03-15
 - [[Núi Tà Cú II]] - 2026-05-01
 
+## [[Núi Brah Yang]] - 1866m
+
+- **Location**: [Núi Brah Yang](https://maps.app.goo.gl/Z8ZstZhkJzsqq1G86), **distance**: [235 km](https://maps.app.goo.gl/ya74nnwD7iYmrGTV8?g_st=av) from Saigon, 6h08 by bike
+- **Details:** height **1866** meters, round trip about 5h10 for xxxx km. Needs xxxx kcal.
+
+First I only got to the entrance with [[Núi Tà Cú I]] on 2026/03/15. Minh conquered the top with Mỹ Tâm on March 14th. I tried to find a path on April 5th and 6th on the [[Daytrip to Núi Lang Biang]], but could not find it. Eventually I got there on May 2nd, 2026.
+
+- [[Núi Brah Yang I]] - 2026-05-02 
 ## Vồ Bồ Hong - [[Núi Cấm]] - Forbidden mountain - 705m
 
 - **Location:** [Vồ Bồ Hong](https://maps.app.goo.gl/QxY3dxhxCJSph1WM6), **distance:** [255km](https://maps.app.goo.gl/EkZUsKKhtRdsktBz5), 5h21
@@ -142,29 +153,8 @@ Went there on a [[Daytrip to Núi Lang Biang]] in April 2026. Total distance: 12
 
 - **Location:** [Chư Yang Sin](https://maps.app.goo.gl/pM5MyeFRYZh2geR8A), distance to [Thác Krông](https://maps.app.goo.gl/t9whTrvsf19oxhYR6) Kmar [356 km](https://maps.app.goo.gl/eLv67cmQfwKNA9HJ8) 7h47
 - **Details:** height 2442m and 2405m according to [Google Review](https://maps.app.goo.gl/WEc6hfRSSaEhsdEq8), surrounding area is at 500m elevation, located between Dalat and BMT
-- **Entrance:** Tour operators from BMT for [3.4m per person](https://www.getyourguide.com/buon-ma-thuot-l159538/buon-ma-thuot-2-day-trekking-adventure-in-chu-yang-lak-t858452/), another [review stated 8 hours](https://maps.app.goo.gl/jXMDDiHFuppVyJF27), and one that it is [closed for foreigners](https://maps.app.goo.gl/NAmeyQ39hEYpBbvj6). More on the [Wikipedia article in Vietnamese](https://vi.wikipedia.org/wiki/D%C3%A3y_n%C3%BAi_Ch%C6%B0_Yang_Sin).
 
-The description from [one travel website](https://www.getyourguide.com/buon-ma-thuot-l159538/buon-ma-thuot-2-day-trekking-adventure-in-chu-yang-lak-t858452/) reads:
-### Day 1: Trekking Journey - 5 km  
-Your adventure begins with a pick-up from your hotel in Buon Ma Thuot or the Dak Lak area at 6:00 AM. After gathering at the homestay for personal hygiene and breakfast at 7:00 AM, we’ll transfer to the foot of the mountain by 7:30 AM. 
-
-At 8:00 AM, we’ll embark on our trek. As we navigate through lush forests and cross streams, you’ll experience the thrill of tackling steep inclines while immersing yourself in the diverse ecosystem, rich with rare and protected flora and fauna.  
-
-Around 11:00 AM, we’ll take a break for lunch on large boulders, where you can relax and listen to the soothing sounds of nature, washing away any fatigue from the day.  
-
-By 4:00 PM, we’ll reach the base of the summit, greeted by cool streams, majestic waterfalls, and vibrant rhododendron flowers in full bloom near the peak. Here, we’ll set up camp, freshen up, and enjoy delicious local dishes. Engage in fun activities that provide a fantastic opportunity to bond with fellow trekkers—these experiences are sure to be unforgettable.  
-At 9:00 PM, we’ll wind down and rest for the night.
-### Day 2: Summit Trek and Descent - 9 km  
-We’ll rise early at 6:00 AM to begin a new day. While enjoying breakfast at 6:15 AM, take a moment to breathe in the fresh mountain air and watch the first rays of sunlight pierce through the forest canopy.  
-
-At 7:00 AM, we’ll continue our ascent for 2 km to the summit. You’ll navigate through uniquely shaped boulders and may even reach out to touch the clouds. Enjoy the fruits of your labor with a cup of fragrant tea while soaking in the stunning views of the lush green forests and the grandeur of waterfalls cascading from the highlands—a breathtaking sight.  
-
-By 10:00 AM, we’ll make our way back down to the campsite.  
-At 11:00 AM, we’ll enjoy lunch and pack our belongings in preparation for the descent.  
-By 5:00 PM, we’ll have dinner at a traditional longhouse, featuring local specialties. Experience a unique cultural exchange with the indigenous community, highlighted by a captivating gong performance.  
-
-Finally, we’ll return to your hotel in Buon Ma Thuot City or the Dak Lak area at 6:30 PM, concluding an incredible journey filled with adventure and cultural richness.
-
+This needs further exploration. See [[Núi Chư Yang Sin]] for more details.
 ## Hòn Ngang - Angel mountains in Nha Trang - 352m
 ![[2025-08-29_AngelMountain_NaTrang.jpg]]
 
@@ -215,8 +205,8 @@ It is the highest peak in southeast Asia, including Vietnam, Laos and Cambodia. 
 | [[Monkey Island\|Khu dự trữ sinh quyển thế giới]]     |    40    | 01:05  |     10 |             1.3 |    00:30    | 2019/01/15 |
 | Khu căn cứ Vàm Sát Đảo Khỉ                            |    53    | 01:19  |     15 |             2.5 |    00:40    | 2026/03/02 |
 | [[Núi Thị Vải I\|Núi Thị Vải]]                        |    58    | 01:14  |    467 |             5.1 |    01:40    | 2025/07/24 |
-| [[Núi Đinh III\|Núi Dinh blue]]                       |    81    | 02:07  |    491 |             8.1 |    05:25    | 2026/02/24 |
-| [[Núi Đinh II\|Núi Dinh red]]                         |    81    | 02:07  |    491 |            15.0 |    04:57    | 2025/07/07 |
+| [[Núi Dinh III\|Núi Dinh blue]]                       |    81    | 02:07  |    491 |             8.1 |    05:25    | 2026/02/24 |
+| [[Núi Dinh II\|Núi Dinh red]]                         |    81    | 02:07  |    491 |            15.0 |    04:57    | 2025/07/07 |
 | [[Hồ Trị An - Tri An Lake\|Hồ Trị An]]                |    67    | 02:02  |     15 |            26.4 |    07:57    | 2026/03/11 |
 | Vũng Tàu - Tương Kỳ                                   |    99    | 02:31  |    245 |                 |             |            |
 | Núi lửa Sok Lu                                        |    85    | 02:10  |    418 |                 |             |            |

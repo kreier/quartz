@@ -11,4 +11,10 @@ I was still not ready to start the hike. All of a sudden Wikiloc would not track
 
 On the way I only met a father with his daughter on a motor bike early in the hike, and a group of 4 young man, travelling Brah Yang in the opposite direction.
 ## Reaching the top
-Finally on the top, I checked the height reading. The cairn reads 
+Finally on the top, I checked the height reading. The cairn reads 1876 meter, but it's only 1866 according to GPS on my Galaxy S24.
+
+## Documentation
+Here is the file, and link
+## References
+- [[Núi Brah Yang]] - General information about the mountain and trail
+- [[5 Mountains in 5 days]] - first ascent on 2026/05/02

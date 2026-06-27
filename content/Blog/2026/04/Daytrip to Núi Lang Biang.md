@@ -1,7 +1,10 @@
 ---
 date: 2026-04-06
 ---
-After creating the list for hiking destinations and having been on a few hikes with friends earlier in 2026 the chance to have 6 days off early April 2026 was promising. The memorial reduced it to 4 days, return visits to 3 days, organizing requirements to 2 days. Well, at least I went to Dalat! Starting Sunday at noon it's about 3 hours on basically sea level. Then you see the mountains, but drive inside a valley at about 100 meter height for about another hour until you pass Madagui. Shortly thereafter a curved street leads you up to 800 meters plateau.
+I had just created a list for hiking destinations ([[Hiking in Vietnam]]). And I've been to a few places already, including earlier in 2026. Then in April 2026 there were 6 days off. Sounds promising! The memorial reduced it to 4 days, some return visits further to only 3 days, and finally organizing requirements to just 2 days. Well, at least I went to Dalat! 
+
+I started Sunday at noon. For 3 hours its a ride on basically sea level. Then you see the mountains, but continue driving inside a valley at about 100 meter elevation for about another hour until you pass Madagui. Shortly thereafter a curved street leads you up to the plateau at 800 meters elevation. 4 hours on sealevel, 3 hours at 800 meters height.
+
 ![[2026-04-06_LangBiang_Peak.jpg]]
 It is only the last 50 kilometers and hour of the 8 hour drive that you hike up to the 1400 meter of Dalat. And the base of Lang Biang is actually behind Dalat, surrounded by countless green houses at 1500 meter height. After sunset the gate is not monitored, so you could continue driving all the way up to the radar post at 1950 meter height. Many Korean tourists will take a car up there the next morning, April 7th. 
 

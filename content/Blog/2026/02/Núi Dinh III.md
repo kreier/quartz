@@ -1,4 +1,4 @@
-This 2026/02/24 will already be the  third time to Núi Đinh, and we have a new group: Simon is using his 50cc to travel with Pablo there, and Eddie is on vacation from Germany here to partner with me. 
+This 2026/02/24 will already be the third time to [[Núi Dinh]], and we have a new group: Simon is using his 50cc to travel with Pablo. I ride there with Eddie, who is on vacation from Germany.
 
 ![[2026-02-24_map.jpg]]
 
@@ -17,5 +17,5 @@ No need to rush now, 19:00 in a restaurant and leaving 21:00. Back home after mi
 
 ## References
 - [[Hiking in Vietnam]]
-- [[Núi Đinh I]] - 2023-11-26 - more than 6 hours with shortcut at the end of the red loop
-- [[Núi Đinh II]] - 2025-07-07 - finished the red loop after 4h57 (3h49, 14.97km)
+- [[Núi Dinh I]] - 2023-11-26 - more than 6 hours with shortcut at the end of the red loop
+- [[Núi Dinh II]] - 2025-07-07 - finished the red loop after 4h57 (3h49, 14.97km)
