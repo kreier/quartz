@@ -36,7 +36,7 @@ Been there three times, the second time finishing the red loop in 4:57 on 2025-0
 - [[Núi Dinh I]] - 2023-11-26 - more than 6 hours with shortcut at the end of the red loop
 - [[Núi Dinh II]] - 2025-07-07 - finished the <span style="color:red">red loop</span> after 4h57 (3h49, 14.97km)
 - [[Núi Dinh III]] - 2026-02-24 - <span style="color:blue">blue route</span> with Pablo, Simon and Eddie after 5h25 (3h30, 8.12km)
-- [[Nui Dinh IV]] - 2026-10-11 - future plan with brothers and sisters from 3 congregations
+- [[Núi Dinh IV]] - 2026-10-11 - future plan with brothers and sisters from 3 congregations
 
 ## Tri An: [[Hồ Trị An - Tri An Lake]]
 ![[2026-03-11_Tri_An_lake.jpg]]

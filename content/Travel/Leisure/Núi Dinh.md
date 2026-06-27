@@ -11,4 +11,4 @@ This is a great alternative to the red route, since it has the same starting poi
 - [[Núi Dinh I]] - 2023-11-26 with 5 friends, red route in more than 6 hours
 - [[Núi Dinh II]] - 2025-07-07 finally finish red route 15 km in less than 4 hours
 - [[Núi Dinh III]] - 2026-02-24 with 3 friends
-- [[Nui Dinh IV]] - 2026-10-11 with members from 3 congregations
+- [[Núi Dinh IV]] - 2026-10-11 with members from 3 congregations

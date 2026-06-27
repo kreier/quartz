@@ -8,3 +8,6 @@ After some months of planning we have a few brothers and sisters from the Englis
 Here is the invitation, in A7, both English and Vietnamese
 
 ![[2026-10-11_invitation.jpg]]
+
+## References
+- [[Núi Dinh]]
