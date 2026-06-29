@@ -1,8 +1,9 @@
 ---
 date: 2020-05-06
 ---
-This third Sabbatical started on Friday, June 5th, 2020 with the last day teaching at the AISVN (American International School Vietnam). It lasted for a year until I started working as a teacher again at the SSIS (Saigon South International School) in June 2021.
-
+This third Sabbatical started on Friday, June 5th, 2020 with the last day teaching at the [[AISVN]] (American International School Vietnam). It lasted for a year until I started working as a teacher again at the SSIS (Saigon South International School) in June 2021.
+![[2020-06-03_AISVN.jpg]]
+One week earlier we had a great farewell from my students on the roof of the HS building.
 ## Projects during the sabbatical
 
 One unfinished project marked the beginning of the Sabbatical: the solar project at AISVN. On this Friday, I was still soldering the data collection board with the ESP32:

@@ -32,7 +32,7 @@ Not everything is a **project**, or belongs to the **travel** category. But it's
 In 2008 I started a blog with WordPress on blog.saiht.de and managed to write 97 stories until the end of 2025. With Obsidian I copied some stories over, translated them, expanded them and continued to document pieces of my life.
 ## 5. [[My Diary]]
 
-<img src="/Diary/files/oxyrynchus.jpg" align="right" width="25%">Several times I started a diary both **physical** on paper and **digital** in many different software solutions and platforms: OneNote, Google Docs, Apple Notes and Journal, Markdown, GitHub, and Websites with plain HTML, some CSS and WordPress. Now little pieces are scattered all around. Here I try to consolidate these all into my Obsidian vault and store it in the Markdown format with GitHub backup. That's my plan in 2025, at least. In a few years I will look back. In November 2025 I have some notes for [[2025]], [[2024]] and [[2023]].
+<img src="/Diary/files/oxyrynchus.jpg" align="right" width="25%">Several times I started a diary both **physical** on paper and **digital** in many different software solutions and platforms: OneNote, Google Docs, Apple Notes and Journal, Markdown, GitHub, and Websites with plain HTML, some CSS and WordPress. Now little pieces are scattered all around. Here I try to consolidate these all into my Obsidian vault and store it in the Markdown format with GitHub backup. That was my plan in 2025. In a few years I will look back. In July 2026 I have some notes for [[2026]], [[2025]], [[2024]] and [[2023]].
 
 A part of my diary is also the story of [[Leisure]] activities and places I have been [[Working]] and [[Living]].
 
