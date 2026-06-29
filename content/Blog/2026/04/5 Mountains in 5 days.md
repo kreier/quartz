@@ -1,11 +1,11 @@
 ---
 date: 2026-04-29
 ---
-End of April 2026 had a unique opportunity. There are five consecutive free days, since I have no lesson on Wednesday, and Thursday and Friday are holidays! Here are the 5 hiking destinations for 5 days:
+End of April 2026 had a unique opportunity. There are **five consecutive free days**, since I have no lesson on Wednesday, and Thursday and Friday are holidays! Here are the 5 hiking destinations for 5 days:
 
 - 29.04. Vũng Tàu, [[Núi Vũng Maý I]] - 220 m
 - 30.04. [[Núi Chứa Chan I]] - 837 m
-- 01.05. [[Núi Tà Cú II]] - 694 m
+- 01.05. [[Núi Tà Cú II]] or actually Đỉnh Nọc Trù - 694 m
 - 02.05. [[Núi Brah Yang I]] - 1879 (1866) m
 - 03.05. Third time to [[Núi Thị Vải III]] - 467 m
 
@@ -19,6 +19,8 @@ There are a few mountains in Vũng Tàu, but actually accessible are only a few:
 - Núi Tao Phùng, **176** m, [Hải đăng Vũng Tàu](https://vi.wikipedia.org/wiki/Hải_đăng_Vũng_Tàu) (Vung Tao lighthouse) - closed during the night, good view over to the statue of Christ
 - Núi Tương Kỳ, **245** m, [Núi Lơn](https://vi.wikipedia.org/wiki/N%C3%BAi_L%E1%BB%9Bn), but now has the Du Lịch Hồ Mây with 400k entrance. You can also take the cable care there, some 450k
 - [[Núi Vũng Maý]], **220** m, nice round trip on AllTrails 
+
+I investigated all 4 peaks with my motorbike (as much as possible) and eventually hiked the last one [[Núi Vũng Maý I]] in 1h30.
 
 ## Thursday - [[Núi Chứa Chan I]]
 

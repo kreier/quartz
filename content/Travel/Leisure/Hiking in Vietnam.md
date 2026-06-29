@@ -48,13 +48,20 @@ Less than 2 hours from HCM a quiet place to spend the night in a tent, enjoy BBQ
 ## [[Mountains in Vũng Tàu]] - [[Núi Vũng Maý]] - 235m
 
 - **Location:** [Thiền viện Chơn Không](https://maps.app.goo.gl/C6g2Yj9MTRKCVSbH8), and **distance**: [99km](https://maps.app.goo.gl/ahcd6unvcS64DAU2A), 2h31
-- **Details:** 235 meter height, round trip 4 kilometer in under 2 hours
+- **Details:** 235 meter height, round trip 4.6 kilometer in 1 hour 30s
 
-There are actually several mountain tops you can consider in Vũng Tàu. But some require entrance, and others can also easily reached by motorbike. I have a list of four peaks I explored in the [[Núi Vũng Maý]] article - the mountain I actually recommend to hike. My first documentation happened during my [[5 Mountains in 5 days]] trip in 2026.
+There are actually several mountain tops you can consider in Vũng Tàu. But some require entrance, and others can also easily reached by motorbike. Here is a short list of the 4 main peaks:
 
-The mountain **Tương Kỳ** in Vũng Tàu is slightly higher with 245 meter and actually connected to **Vũng Maý**. I drove the road between both mountains on my motorbike, but was stopped at a gate for the top part. This is now an entertainment center with 400k VND entrace fee and a cable car to the top.
+- Nghinh Phong, **Núi Nhỏ** - 138 m
+- **Núi Tao Phùng** - 176 m, (Vung Tao lighthouse)
+- Núi Tương Kỳ, **Núi Lơn** - 245 m, now with Du Lịch Hồ Mây and **400k VND entrance**.
+- **Núi Vũng Maý** - 235m, loop of 4.6 km in 1h30
 
-An alternative way to go to Vũng Tàu is a ferry from **Can Gio**. Near Saigon the way leads over another ferry and down to monkey island (see [[Hiking in Vietnam#Monkey Island|Monkey Island]] above). From Can Gio the ferry is **70k** for the motorbike and **50k** for a passenger. On your own therefore 120k, if you're riding with someone it's 170k.
+More details are in my [[Núi Vũng Maý]] article - the mountain I actually recommend to hike. My first documentation happened during my [[5 Mountains in 5 days]] trip in 2026.
+
+The mountain **Tương Kỳ** in Vũng Tàu is slightly higher with 245 meter and actually connected to **Vũng Maý**. I drove the road between both mountains on my motorbike, but was stopped at a gate for the top part. This is now an entertainment center with 400k VND entrance fee and a cable car to the top. Cable car ride is 450k VND.
+
+An alternative way to go to Vũng Tàu is a ferry from **Can Gio**. Near Saigon the way leads over another ferry and down to monkey island (see [[Hiking in Vietnam#Monkey Island|Monkey Island]] above). From Can Gio the ferry is **70k** for the motorbike and **50k** for a passenger. The price for a single rider is therefore 120k, if you're riding with someone it's 170k.
 ## Núi lửa Sok Lu - 418m
 
 ![[2026-03-11_Sok_Lu.jpg]]
@@ -163,7 +170,7 @@ This needs further exploration. See [[Núi Chư Yang Sin]] for more details.
 - **Hike**: [4.10 km](https://www.strava.com/activities/15615241134) to all 3 peaks and return, 1h43
 - **One way:** 1.61 km, 351 m height, 36min 30s ([Strava](https://strava.app.link/ewvP3qGKN1b), Apple watch water damage)
 
-On my trip to Nha Trang I decided one afternoon to try this hike, recommended by Minh. Started late at 17:08 and hiked the 4.10 km forth and back in 1:34 with an elevation gain of 462 meters.. Highest point 348m [in Strava](https://www.strava.com/activities/15615241134) after 1.53 kilometers. [Second account](https://strava.app.link/ewvP3qGKN1b) with iPhone measured 347 meters. The third peak seems to be a little lower. Ascent to the second one is very steep. The descent was in the dark! But I got a phantastic AQI of 2!
+On my trip to Nha Trang I decided one afternoon to try this hike, recommended by Minh. Started late at 17:08 and hiked the 4.10 km forth and back in 1:34 with an elevation gain of 462 meters.. Highest point 348m [in Strava](https://www.strava.com/activities/15615241134) after 1.53 kilometers. [Second account](https://strava.app.link/ewvP3qGKN1b) with iPhone measured 347 meters. The third peak seems to be a little lower. Ascent to the second one is very steep. The descent was in the dark! But I got a phantastic AQI of 2! Here on [AllTrails](https://www.alltrails.com/explore/poi/vietnam/khanh-hoa/nha-trang/hon-kho).
 
 - **2025-08-29** [[Angel Mountain in Nha Trang]] 17:18 - 18:27 into the darkness
 
