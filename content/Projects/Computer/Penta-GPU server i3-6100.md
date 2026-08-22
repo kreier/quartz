@@ -127,10 +127,15 @@ Larger models like [nemotron-3-nano](https://ollama.com/library/nemotron-3-nano)
 
 ![[2026-02-19_ollama_nemotron2.png]]
 
-The response is **40 t/s** and the prompt 120 t/s. Successive prompts are processed even faster with 435 and 438 t/s. For coding it easily produces a 200 lines python script to parse Markdown files in subfolders, remove YAML/TOML front matter, clean text, do word count, use Pandas, export as csv file. With 158 t/s for prompt and 40 t/s for response. Quite useful already! Now a coding agent with OpenClaw and a agentic coding model!
+The response is **40 t/s** and the prompt 120 t/s. Successive prompts are processed even faster with 435 and 438 t/s. For coding it easily produces a 200 lines python script to parse Markdown files in subfolders, remove YAML/TOML front matter, clean text, do word count, use Pandas, export as csv file. With 158 t/s for prompt and 40 t/s for response. Quite useful already! Now a coding agent with **OpenClaw** and a agentic coding model! or **Hermes agent** and a second brain.
+
+Eventually I had to limit the power usage of the first 2 GPU's because in short reasoning bursts they would draw their 180 Watt or 150 Watt and fall off the PCIe bus. After all, combined the GPUs could consume 180+150+120+180=630 Watt. With 130 Watt the first ones are stable and the temparature (on top in the case) is also managable. The P104-100 in the bottom is always the coolest.
+```shell
+sudo nvidia-smi -i 0,1 -pl 130
+```
 ## E) History
 ### 2025-01-10 Original Plans with P40 and P100
-My planning was a possible multi-GPU machine with the [P100 GPU](https://www.techpowerup.com/gpu-specs/tesla-p100-pcie-16-gb.c2888) as main ingredient. With just 16 GB it has less VRAM than the similar [Tesla P40](https://www.techpowerup.com/gpu-specs/tesla-p40.c2878) but has significant higher memory bandwidth because of HBM2 instead of GDDR5. And after the compute heavy prompt processing is done (not very long before the answer starts) it is memory bandwidth that limits the token generation. There is still some MATMUL going on, but even a CPU is sitting idle waiting for some data to multiply to arrive.
+My planning was a possible multi-GPU machine with the [P100 GPU](https://www.techpowerup.com/gpu-specs/tesla-p100-pcie-16-gb.c2888) as main ingredient. With just 16 GB it has less VRAM than the similar [Tesla P40](https://www.techpowerup.com/gpu-specs/tesla-p40.c2878) but has significant **higher memory bandwidth** (more than twice) because of HBM2 instead of GDDR5. And after the compute heavy prompt processing is done (not very long before the answer starts) it is memory bandwidth that limits the token generation. There is still some MATMUL going on, but even a CPU is sitting idle waiting for some data to multiply to arrive.
 
 |        Specification        |  Tesla P40  | Tesla P100  |
 | :-------------------------: | :---------: | :---------: |
@@ -262,6 +267,15 @@ Meaning of the parameters:
 - `-n ` **N**umber of tokens to generate after the prompt. Tests **interactive speed** (tokens/sec during generation)
 
 To explore later: `-n_batch 128` to see how much of a bottleneck the memory bandwidth is compared to the processing power.
+### 2026-08-21 Not faster with speculative decoding
+In August Meta published their new LLM Muse Glimmer. It also has the ability of Block-Diffusion Speculative Decoding (dflash) and in theory can speed up inference up to 3x. In case of my Pascal GPU cluster, it actually slows inference down.
+
+After compiling a new llama.cpp b10540 (see [[Penta-GPU server i3-6100#Muse Glimmer support with b10516]]) I tested the model both with and without DFlash support. The result:
+
+|                  | without dflash | with dflash | difference  |
+| ---------------- | :------------: | :---------: | :---------: |
+| token generation |    9.22 t/s    |    8.42     | 8.7% slower |
+I looked for other people's result and my acceptance rate of about 10% is in line with the results of others. And it matches my calculations from November 2024 about the effectiveness of speculative decoding - maybe a few percent, but in a best case scenario only 2x. See [speculative decoding in ml](https://kreier.github.io/ml/#faster-inference-with-speculative-execution).
 ## F) Build llama.cpp for Pascal
 This is not that easy. The latest stable Nvidia driver is from the 535 branch, currently 535.288.01. The CUDA compiler shipping with the 535 driver is 12.2, but this version does not support Ubuntu 24.04, only 20.04 and 22.04. Ubuntu 24.04 ships with gcc 13, but CUDA 12.2 only works with gcc 12. I was not able to get a working image with CUDA Compiler 12.9, the latest to support the Pascal architecture. Everything below CC 7.5 was dropped with version 13.
 
@@ -296,7 +310,7 @@ cmake -B build -DLLAMA_OPENSSL=ON -DBUILD_SHARED_LIBS=OFF -DGGML_CUDA=ON
 cmake --build build --config Release
 ./build/bin/llama-cli -hf Qwen/Qwen3-4B-GGUF:Q4_K_M -p "Explain quantum entanglement" --n-gpu-layers 99
 ```
-It worked! The work is distributed across all 4 GPUS. Now for benchmarking, with standard parameters I get pp512 813 t/s and tg128 40.3 t/s. Compared to CPU that's 44x and 6.2x. If I limit to one GPU with `UDA_VISIBLE_DEVICES=0 ./build/bin/llama-bench -m ~/.cache/llama.cpp/Qwen_Qwen3-4B-GGUF_Qwen3-4B-Q4_K_M.gguf -ngl 99` I get pp512 914 t/s and tg128 49 t/s. That's 49x and 7.6x. Now to the benchmark to compare with the DGX Spark:
+It worked! The work is distributed across all 4 GPUS. Now for benchmarking, with standard parameters I get pp512 813 t/s and tg128 40.3 t/s. Compared to CPU that's 44x and 6.2x. If I limit to one GPU with `CUDA_VISIBLE_DEVICES=0 ./build/bin/llama-bench -m ~/.cache/llama.cpp/Qwen_Qwen3-4B-GGUF_Qwen3-4B-Q4_K_M.gguf -ngl 99` I get pp512 914 t/s and tg128 49 t/s. That's 49x and 7.6x. Now to the benchmark to compare with the DGX Spark:
 
 ```sh
 CUDA_VISIBLE_DEVICES=0 ./build/bin/llama-bench -m ~/.cache/llama.cpp/Qwen_Qwen3-4B-GGUF_Qwen3-4B-Q4_K_M.gguf -ngl 99 -p 4096 -n 8192
@@ -318,6 +332,12 @@ Here I compare the small Qwen3-4B model on the i3-6100 CPU to the split across 4
 | CPU i3-6100   |    19 |   6.5 |     14 |    4.9 |   32 |
 | GPU 4x Pascal |   813 |  40.3 |    698 |   21.5 | ~250 |
 | GPU P104-100  |   914 |  49.0 |    664 |   23.5 |  314 |
+### Target only one GPU
+If you have more than one GPU, you want to target the fastest one if the model fits into VRAM. You do this by
+```shell
+./build/bin/llama-cli -hf Qwen/Qwen3-4B-GGUF:Q4_K_M -sm none -mg 0
+```
+Here `-sm` stands for `--split-mode` and `-mg` for `--main-gpu`. You get tg=48 and pp=248 for a P104-100, compared to tg=39 and pp=259 if split across four GPUs for the prompt "Explain the French revolution in about 1000 words". 23% faster.
 ### Not working with CUDA Compiler 12.9
 I tried a freshly compiled llama.cpp `b8134` with `nvidia-smi` 535.288.01 and `nvcc` 12.9. I thought it would be simple:
 
@@ -332,5 +352,57 @@ cmake --build build --config Release
 ```
 No, it crashes. See above solution with 12.2
 
+### Muse Glimmer support with b10516
+You need a version newer than b10353 to support Meta's new [Muse Glimmer](https://developer.meta.com/ai/lp/muse-glimmer/) LLM from August 2026. It is intended for Always-on agents, additional 1.4 GB Vision projector for image input and 1.6 GB Speculative-decode draft model [DFlash - see huggingface](https://huggingface.co/meta-models/Muse-Glimmer-30B). The local models are stored at `~/.cache/llama.cpp/` . Let's build this version for Pascal:
+
+```shell
+git clone https://github.com/ggml-org/llama.cpp b10516
+cd b10516
+git describe --tags
+cmake -B build -DLLAMA_OPENSSL=ON -DBUILD_SHARED_LIBS=OFF -DGGML_CUDA=ON
+cmake --build build --config Release
+```
+The last step takes quite some time: **56 minutes**. Then we can test this build with
+```shell
+./build/bin/llama-cli -hf meta-models/Muse-Glimmer-30B-GGUF:Q4_K_M
+```
+We need to download the respective files. Here are their sizes:
+
+- 16.8 GB `Muse-Glimmer-30B-KQuant-17GB-Q4_K_M.gguf` - Text model, K-quant
+- 19.7 GB `Muse-Glimmer-30B-KQuant-Dynamic-Q4_K_XL.gguf` - dynamic K-quant
+- 1.4 GB `mmproj-Muse-Glimmer-30B-Q4_K_M.gguf` - Vision projector, needed for image input
+- 1.6 GB `dflash-Muse-Glimmer-30B-Q4_K_M.gguf` - Speculative-decode draft model, optional
+
+```shell
+pip install -U huggingface_hub
+hf download meta-models/Muse-Glimmer-30B-GGUF --local-dir ~/.cache/llama.cpp \
+  --include "Muse-Glimmer-30B-KQuant-17GB-Q4_K_M.gguf" \
+  --include "mmproj-Muse-Glimmer-30B-Q4_K_M.gguf" \
+  --include "dflash-Muse-Glimmer-30B-Q4_K_M.gguf"
+```
+
+Then we run them:
+```shell
+./build/bin/llama-cli -hf meta-models/Muse-Glimmer-30B-GGUF:Q4_K_M
+./build/bin/llama-cli -hf meta-models/Muse-Glimmer-30B-GGUF:Q4_K_XL
+
+./build/bin/llama-server -m ~/.cache/llama.cpp/meta-models_Muse-Glimmer-30B-GGUF_Muse-Glimmer-30B-KQuant-17GB-Q4_K_M.gguf -md ~/.cache/llama.cpp/dflash-Muse-Glimmer-30B-Q4_K_M.gguf --spec-type draft-dflash --spec-draft-n-max 15 -c 16384 -ngl 99 --port 9931 --host 0.0.0.0
+
+./build/bin/llama-cli -m ~/.cache/llama.cpp/meta-models_Muse-Glimmer-30B-GGUF_Muse-Glimmer-30B-KQuant-17GB-Q4_K_M.gguf -md ~/.cache/llama.cpp/dflash-Muse-Glimmer-30B-Q4_K_M.gguf
+
+./build/bin/llama-server \
+  -m ~/.cache/llama.cpp/Muse-Glimmer-30B-KQuant-17GB-Q4_K_M.gguf \
+  --mmproj ~/.cache/llama.cpp/mmproj-Muse-Glimmer-30B-Q4_K_M.gguf \
+  -a muse-glimmer \
+  -md ~/.cache/llama.cpp/dflash-Muse-Glimmer-30B-Q4_K_M.gguf
+  -ngl 99 -c 131072 -np 1 \
+  --host 127.0.0.1 --port 8080 \
+  --jinja \
+  --chat-template-kwargs '{"reasoning_strength":"low"}'
+  --spec-type draft-dflash   --spec-draft-n-max 15
+```
+
+The results of my testing are. Without speculative decoding, Glimmer gets tg=8.97 and pp=230. Much slower than `gemme4:26b` and `nemotron-3.5-lightning`. But with speculative you can ...
+
 ## References
-- [[Hardware collection]] 
+- [[Hardware collection]]  
